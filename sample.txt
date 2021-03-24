@@ -1,0 +1,2 @@
+django.contrib.auth.models のUserManagerとAbstractUser を継承して利用。コピペして必要な箇所を削除・修正するのがラクかも。
+（今回は簡単に AbstractUser 使ってるけど実際開発で使う場合は AbastractBaseUser を継承して User 作ると思う。）
